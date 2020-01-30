@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohyeepeig.agiledevelopmentday.pl/sitemap.xml
